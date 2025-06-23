@@ -4,7 +4,7 @@ A fork of [HybridOctree_Hex](https://github.com/CMU-CBML/HybridOctree_Hex) focus
 
 HybridOctree_Hex received the best technical poster award in [the 2024 International Meshing Roundtable](https://internationalmeshingroundtable.com/awards/).
 
-# Original Author and Citation
+## Original Author and Citation
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.jocs.2024.102278-blue)](https://doi.org/10.1016/j.jocs.2024.102278)
 
